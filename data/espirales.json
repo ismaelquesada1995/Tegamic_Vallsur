@@ -3,9 +3,14 @@
     "coleccion": "OP15 Adventure on Kamis Island",
     "cartas": [
       {
-        "nombre": "Enel (Manga ALT ART)",
+        "nombre": "#1 Enel (MANGA ALT ART) [SEC/SP] {OP15-118}",
         "precio": "950€",
         "imagen": "images/cartas/op-15/OP15cartamascara.jpg"
+      },
+       {
+        "nombre": "#2 Boa Hancock (Devil Fruit Pattern) [SP] {OP12-014}",
+        "precio": "320€",
+        "imagen": "images/cartas/op-15/OP-15_2.jpg"
       }
     ]
   }
