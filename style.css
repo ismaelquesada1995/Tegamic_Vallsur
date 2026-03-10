@@ -1,0 +1,44 @@
+body{
+font-family: Arial;
+background:#111;
+color:white;
+text-align:center;
+}
+
+#maquina{
+display:grid;
+grid-template-columns: repeat(6,80px);
+gap:10px;
+justify-content:center;
+margin:30px;
+}
+
+button{
+padding:15px;
+font-size:16px;
+background:#ffcc00;
+border:none;
+border-radius:8px;
+cursor:pointer;
+}
+
+button:hover{
+background:#ffaa00;
+}
+
+#resultado{
+margin-top:30px;
+}
+
+.carta{
+display:inline-block;
+margin:15px;
+background:#222;
+padding:10px;
+border-radius:10px;
+}
+
+.carta img{
+width:160px;
+border-radius:8px;
+}
